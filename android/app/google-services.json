@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223482426578",
+    "project_id": "watchcal-ed5c9",
+    "storage_bucket": "watchcal-ed5c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223482426578:android:931d57282b01e0cc02e90b",
+        "android_client_info": {
+          "package_name": "com.example.watchcal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223482426578-2m3jgqj39s7au2mmde4vfv6fc6mlg39p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbcj5QweyNR3OR6y9uhP-DTJEU2gCG_a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223482426578-2m3jgqj39s7au2mmde4vfv6fc6mlg39p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
